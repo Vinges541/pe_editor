@@ -1,0 +1,7 @@
+https://codeby.net/threads/0x01-issleduem-portable-executable-exe-fajl-format-pe-fajla.65415/
+https://wasm.in/blogs/pe-urok-1-obzor-pe-formata.50/
+https://docs.microsoft.com/en-us/archive/msdn-magazine/2002/february/inside-windows-win32-portable-executable-file-format-in-detail
+https://docs.microsoft.com/en-us/archive/msdn-magazine/2002/march/inside-windows-an-in-depth-look-into-the-win32-portable-executable-file-format-part-2
+http://research32.blogspot.com/2015/01/base-relocation-table.html
+https://habr.com/ru/post/266831/
+http://cs.usu.edu.ru/docs/pe/
